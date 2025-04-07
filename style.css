@@ -67,7 +67,7 @@
   
   .product-items img {
     width: 100%;
-    height: 380px;
+    height: 500px;
     border-radius: 15px 15px 0 0;
     object-fit: cover;
     cursor: pointer;
